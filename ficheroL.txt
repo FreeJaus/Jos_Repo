@@ -7,6 +7,6 @@ Además tendrá que ser ligero para que los motores sean capaces de elevar la estr
 
 cuánto empuje será necesario para mantener la nave en el aire. La regla básica con multi-rotores es que sus motores deben ser capaces de producir dos veces el peso total de vuelo de la nave en el empuje. Este "margen de seguridad" se asegura de que sus motores serán capaces de responder rápidamente a sus entradas de control, o detener un decesenso vertical rápido, incluso cuando el voltaje de la batería se reduce con el tiempo. 
 
-Empuje requerido por motor = (peso de la aeronave x 2) / 4 motores
+Otra requerido por motor = (peso de la aeronave x 2) / 4 motores
 
 https://upcommons.upc.edu/bitstream/handle/2099.1/21902/102664.pdf?sequence=1&isAllowed=y
